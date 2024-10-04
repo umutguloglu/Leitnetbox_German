@@ -1,0 +1,633 @@
+{
+    "Groups": [
+        {
+            "Number of Words": 4,
+            "Words": [
+                {
+                    "Name": "Vor|bereiten",
+                    "Pos": "Verb (v)",
+                    "Definition": "To prepare something",
+                    "Example": ""
+                },
+                {
+                    "Name": "Dritte",
+                    "Pos": "Adjective (adj)",
+                    "Definition": "\u00dc\u00e7\u00fcnc\u00fc (third)",
+                    "Example": ""
+                },
+                {
+                    "Name": "Fr\u00fchdienst",
+                    "Pos": "Noun (n)",
+                    "Definition": "Early shift ",
+                    "Example": "(Plural die Fr\u00fchdienste)",
+                    "Artikel": "Der"
+                },
+                {
+                    "Name": "Unterstreichen",
+                    "Pos": "Verb (v)",
+                    "Definition": "Alt\u0131n\u0131 \u00e7izmek (underline)",
+                    "Example": "Mit Rot unterstreiche ich meinen Namen."
+                }
+            ]
+        },
+        {
+            "Number of Words": 13,
+            "Words": [
+                {
+                    "Name": "Aus|gehen",
+                    "Pos": "Verb (v)",
+                    "Definition": "To go out",
+                    "Example": "Ich gehe immer um 9 Uhr aus."
+                },
+                {
+                    "Name": "Nie",
+                    "Pos": "Adverb (adv)",
+                    "Definition": "Never",
+                    "Example": ""
+                },
+                {
+                    "Name": "Selten",
+                    "Pos": "Adverb (adv)",
+                    "Definition": "Nadiren (rarely, seldom)",
+                    "Example": ""
+                },
+                {
+                    "Name": "Am",
+                    "Pos": "Preposition (prep)",
+                    "Definition": "At the/on the (an dem veya aus dem)",
+                    "Example": "Manchmal sieht Emma am Freitag fern.\n\nWhen am is used to express time, it is often placed in first position in the sentence or immediately after the subject and the conjugated verb."
+                },
+                {
+                    "Name": "Auf|h\u00f6ren",
+                    "Pos": "Verb (v)",
+                    "Definition": "To finish, to stop",
+                    "Example": ""
+                },
+                {
+                    "Name": "An|fangen",
+                    "Pos": "Verb (v)",
+                    "Definition": "To start",
+                    "Example": ""
+                },
+                {
+                    "Name": "Manchmal",
+                    "Pos": "Adverb (adv)",
+                    "Definition": "Bazen (sometimes)",
+                    "Example": ""
+                },
+                {
+                    "Name": "Vor|lesen",
+                    "Pos": "Verb (v)",
+                    "Definition": "To read something to somebody",
+                    "Example": ""
+                },
+                {
+                    "Name": "Mit|schreiben",
+                    "Pos": "Verb (v)",
+                    "Definition": "To take notes",
+                    "Example": ""
+                },
+                {
+                    "Name": "Raus|gehen",
+                    "Pos": "Verb (v)",
+                    "Definition": "To go out (leave the building)",
+                    "Example": ""
+                },
+                {
+                    "Name": "Aus|schlafen",
+                    "Pos": "Verb (v)",
+                    "Definition": "To sleep as long as you want or until you have rested well",
+                    "Example": "Wir schlafen morgen aus."
+                },
+                {
+                    "Name": "Drinnen",
+                    "Pos": "Adverb (adv)",
+                    "Definition": "Inside",
+                    "Example": "Was kann man drinnen?"
+                },
+                {
+                    "Name": "Drau\u00dfen",
+                    "Pos": "Adverb (adv)",
+                    "Definition": "Outside",
+                    "Example": "Was kann man drau\u00dfen?"
+                }
+            ]
+        },
+        {
+            "Number of Words": 0,
+            "Words": []
+        },
+        {
+            "Number of Words": 35,
+            "Words": [
+                {
+                    "Name": "Kellner",
+                    "Pos": "Noun (n)",
+                    "Definition": "Waiter, server (male)",
+                    "Example": "Was sagt der kellner?",
+                    "Artikel": "Der"
+                },
+                {
+                    "Name": "Stift",
+                    "Pos": "Noun (n)",
+                    "Definition": "Kalem",
+                    "Example": "(die stifte)",
+                    "Artikel": "Der"
+                },
+                {
+                    "Name": "Bequem",
+                    "Pos": "Adjective (adj)",
+                    "Definition": "Comfortable",
+                    "Example": ""
+                },
+                {
+                    "Name": "Spiegel",
+                    "Pos": "Noun (n)",
+                    "Definition": "Ayna",
+                    "Example": "(Plural die Spiegel)",
+                    "Artikel": "Der"
+                },
+                {
+                    "Name": "Brille",
+                    "Pos": "Noun (n)",
+                    "Definition": "G\u00f6zl\u00fck",
+                    "Example": "(Plural die Brillen)",
+                    "Artikel": "Die"
+                },
+                {
+                    "Name": "Zimmer",
+                    "Pos": "Noun (n)",
+                    "Definition": "Oda",
+                    "Example": "(Plural die Zimmer)",
+                    "Artikel": "Das"
+                },
+                {
+                    "Name": "Putzen",
+                    "Pos": "Verb (v)",
+                    "Definition": "To clean",
+                    "Example": "Wie oft putzt ihr denn?"
+                },
+                {
+                    "Name": "Vielleicht",
+                    "Pos": "Adverb (adv)",
+                    "Definition": "Perhaps (belki)",
+                    "Example": "Das ist vielleicht die letzte pizza."
+                },
+                {
+                    "Name": "Gardine",
+                    "Pos": "Noun (n)",
+                    "Definition": "Perde (curtain)",
+                    "Example": "(Plural die Gardinen)",
+                    "Artikel": "Die"
+                },
+                {
+                    "Name": "Schon",
+                    "Pos": "Adverb (adv)",
+                    "Definition": "Already",
+                    "Example": "Ich war schon mal in M\u00fcnchen."
+                },
+                {
+                    "Name": "Verschieden",
+                    "Pos": "Adjective (adj)",
+                    "Definition": "Different (farkl\u0131)",
+                    "Example": ""
+                },
+                {
+                    "Name": "Noch",
+                    "Pos": "Adverb (adv)",
+                    "Definition": "Hala, daha",
+                    "Example": "Trainierst du noch?"
+                },
+                {
+                    "Name": "Tafel",
+                    "Pos": "Noun (n)",
+                    "Definition": "Yaz\u0131 tahtas\u0131",
+                    "Example": "(plural die tafeln)",
+                    "Artikel": "Die"
+                },
+                {
+                    "Name": "Zettel",
+                    "Pos": "Noun (n)",
+                    "Artikel": "Der",
+                    "Definition": "Ka\u011f\u0131t par\u00e7as\u0131",
+                    "Example": "(Plural die Zettel)"
+                },
+                {
+                    "Name": "Papier",
+                    "Pos": "Noun (n)",
+                    "Definition": "Ka\u011f\u0131t(lar) / \u00e7o\u011fulu ile tekili ayn\u0131",
+                    "Example": "",
+                    "Artikel": "Das"
+                },
+                {
+                    "Name": "Herd",
+                    "Pos": "Noun (n)",
+                    "Definition": "Stove",
+                    "Example": "(Plural die Herde)",
+                    "Artikel": "Der"
+                },
+                {
+                    "Name": "Buch",
+                    "Pos": "Noun (n)",
+                    "Artikel": "Das",
+                    "Definition": "Kitap",
+                    "Example": "Das ist das Buch. (Plural Die B\u00fccher) "
+                },
+                {
+                    "Name": "Ordner",
+                    "Pos": "Noun (n)",
+                    "Definition": "Klas\u00f6r (d\u00f6k\u00fcmanlar\u0131n tutuldu\u011fu dosya)",
+                    "Example": "(plural die ordner)",
+                    "Artikel": "Der"
+                },
+                {
+                    "Name": "Schl\u00fcssel",
+                    "Pos": "Noun (n)",
+                    "Definition": "Anahtar",
+                    "Example": "(plural die schl\u00fcssel)",
+                    "Artikel": "Der"
+                },
+                {
+                    "Name": "Dreckig",
+                    "Pos": "Adjective (adj)",
+                    "Definition": "Dirty (kirli)",
+                    "Example": ""
+                },
+                {
+                    "Name": "\u00dcben",
+                    "Pos": "Verb (v)",
+                    "Definition": "Al\u0131\u015ft\u0131rma yapmak (practice )",
+                    "Example": "Wir \u00fcben dialoge."
+                },
+                {
+                    "Name": "Notizblock",
+                    "Pos": "Noun (n)",
+                    "Definition": "Defter",
+                    "Example": "(plural die notizbl\u00f6cke)",
+                    "Artikel": "Der"
+                },
+                {
+                    "Name": "Sp\u00fcle",
+                    "Pos": "Noun (n)",
+                    "Definition": "Kitchen sink",
+                    "Example": "(Plural die Sp\u00fclen)",
+                    "Artikel": "Die"
+                },
+                {
+                    "Name": "W\u00f6rterbuch",
+                    "Pos": "Noun (n)",
+                    "Definition": "S\u00f6zl\u00fck",
+                    "Example": "(plural die w\u00f6rterb\u00fccher)",
+                    "Artikel": "Das"
+                },
+                {
+                    "Name": "Osten",
+                    "Pos": "Noun (n)",
+                    "Definition": "Do\u011fu",
+                    "Example": "Bayern ist im osten von deutschland.",
+                    "Artikel": "Der"
+                },
+                {
+                    "Name": "Heizung",
+                    "Pos": "Noun (n)",
+                    "Definition": "Is\u0131tma (heating, heater)",
+                    "Example": "Die Heizung ist kaputt. (Plural die Heizungen)",
+                    "Artikel": "Die"
+                },
+                {
+                    "Name": "Sauber",
+                    "Pos": "Adjective (adj)",
+                    "Definition": "Clean (temiz)",
+                    "Example": ""
+                },
+                {
+                    "Name": "Radiergummi",
+                    "Pos": "Noun (n)",
+                    "Definition": "Silgi ",
+                    "Example": "(plural die radiergummis)",
+                    "Artikel": "Der"
+                },
+                {
+                    "Name": "Stimmt so",
+                    "Pos": "Verb (v)",
+                    "Definition": "\u00dcst\u00fc kals\u0131n",
+                    "Example": ""
+                },
+                {
+                    "Name": "Liegen",
+                    "Pos": "Verb (v)",
+                    "Definition": "To be located",
+                    "Example": "Bayern liegt im s\u00fcdosten von deutschland."
+                },
+                {
+                    "Name": "Apfelsaft",
+                    "Pos": "Noun (n)",
+                    "Artikel": "Der",
+                    "Definition": "Elma suyu",
+                    "Example": "Wie viel kostet der Apfelsaft?"
+                },
+                {
+                    "Name": "Sessel",
+                    "Pos": "Noun (n)",
+                    "Definition": "Koltuk",
+                    "Example": "",
+                    "Artikel": "Der"
+                },
+                {
+                    "Name": "Doch",
+                    "Pos": "Adverb (adv)",
+                    "Definition": "On the contrary",
+                    "Example": "+ Bist du nicht m\u00fcde? - Doch, ich bin m\u00fcde."
+                },
+                {
+                    "Name": "Billig",
+                    "Pos": "Adjective (adj)",
+                    "Definition": "Ucuz ",
+                    "Example": "Es ist nicht teuer. Es ist billig."
+                },
+                {
+                    "Name": "Noch nie",
+                    "Pos": "Adjective (adj)",
+                    "Definition": "Never before",
+                    "Example": ""
+                }
+            ]
+        },
+        {
+            "Number of Words": 0,
+            "Words": []
+        },
+        {
+            "Number of Words": 0,
+            "Words": []
+        },
+        {
+            "Number of Words": 0,
+            "Words": []
+        },
+        {
+            "Number of Words": 0,
+            "Words": []
+        }
+    ],
+    "Dates": [
+        [
+            1,
+            2
+        ],
+        [
+            1,
+            3
+        ],
+        [
+            1,
+            2
+        ],
+        [
+            1,
+            4
+        ],
+        [
+            1,
+            2
+        ],
+        [
+            1,
+            3
+        ],
+        [
+            1,
+            2
+        ],
+        [
+            1
+        ],
+        [
+            1,
+            2
+        ],
+        [
+            1,
+            3
+        ],
+        [
+            1,
+            2
+        ],
+        [
+            1,
+            5
+        ],
+        [
+            1,
+            2,
+            4
+        ],
+        [
+            1,
+            3
+        ],
+        [
+            1,
+            2
+        ],
+        [
+            1
+        ],
+        [
+            1,
+            2
+        ],
+        [
+            1,
+            3
+        ],
+        [
+            1,
+            2
+        ],
+        [
+            1,
+            4
+        ],
+        [
+            1,
+            2
+        ],
+        [
+            1,
+            3
+        ],
+        [
+            1,
+            2
+        ],
+        [
+            1,
+            6
+        ],
+        [
+            1,
+            2
+        ],
+        [
+            1,
+            3
+        ],
+        [
+            1,
+            2
+        ],
+        [
+            1,
+            5
+        ],
+        [
+            1,
+            2,
+            4
+        ],
+        [
+            1,
+            3
+        ],
+        [
+            1,
+            2
+        ],
+        [
+            1
+        ],
+        [
+            1,
+            2
+        ],
+        [
+            1,
+            3
+        ],
+        [
+            1,
+            2
+        ],
+        [
+            1,
+            4
+        ],
+        [
+            1,
+            2
+        ],
+        [
+            1,
+            3
+        ],
+        [
+            1,
+            2
+        ],
+        [
+            1
+        ],
+        [
+            1,
+            2
+        ],
+        [
+            1,
+            3
+        ],
+        [
+            1,
+            2
+        ],
+        [
+            1,
+            5
+        ],
+        [
+            1,
+            2,
+            4
+        ],
+        [
+            1,
+            3
+        ],
+        [
+            1,
+            2
+        ],
+        [
+            1
+        ],
+        [
+            1,
+            2
+        ],
+        [
+            1,
+            3
+        ],
+        [
+            1,
+            2
+        ],
+        [
+            1,
+            4
+        ],
+        [
+            1,
+            2
+        ],
+        [
+            1,
+            3
+        ],
+        [
+            1,
+            2
+        ],
+        [
+            1,
+            7
+        ],
+        [
+            1,
+            2
+        ],
+        [
+            1,
+            3
+        ],
+        [
+            1,
+            2,
+            6
+        ],
+        [
+            1,
+            5
+        ],
+        [
+            1,
+            2,
+            4
+        ],
+        [
+            1,
+            3
+        ],
+        [
+            1,
+            2
+        ],
+        [
+            1
+        ]
+    ],
+    "Track": {
+        "Day": 7
+    }
+}
